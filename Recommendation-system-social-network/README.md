@@ -21,7 +21,7 @@
 5. [FastAPI service](https://github.com/SiarheyHermanovich/Recommendation-system-social-network/tree/main/FastAPI) - The service downloads data from PostgreSQL, loads the model and, based on a get request, issues recommendations to each user in JSON format
 
 ### Conceptual diagram of working with data
-<img src="https://github.com/SiarheyHermanovich/Recommendation-system-social-network/blob/main/FastAPI/schema.png" width="100%">
+<img src="https://github.com/SiarheyHermanovich/Recommendation-system-social-network/Recommendation-system-social-network/app/schema.png" width="100%">
 
 ### Main libraries used
 ![PANDAS](https://img.shields.io/badge/PANDAS-1.4.2-090909??style=flat-square&logo=PANDAS)
